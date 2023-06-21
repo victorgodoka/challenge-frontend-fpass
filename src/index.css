@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box !important;
+  font-family: "Comic Neue", cursive;
+  font-weight: 600;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-size: 16px;
+  background: url("./assets/background.jpg") center center no-repeat fixed;
+  background-size: cover;
+}
