@@ -33,6 +33,9 @@ Para rodar localmente
 yarn start
 ```
 
+### Vercel
+O projeto também está hospedade em https://challenge-frontend-fpass.vercel.app/
+
 ## 🔗 Telas <a name = "telas"></a>
 
 - # Página de Pesquisa
