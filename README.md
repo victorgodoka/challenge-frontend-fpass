@@ -1,46 +1,63 @@
-# Getting Started with Create React App
+## 📝 Índice
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- [Sobre o Projeto](#about)
+- [Antes de qualquer coisa...](#getting_started)
+- [Feito com](#built_using)
+- [Autores](#authors)
+- [Agradecimentos](#acknowledgement)
 
-## Available Scripts
+## 🧐 Sobre o Projeto <a name = "about"></a>
 
-In the project directory, you can run:
+Repositório público criado para Teste Técnico da <a href="https://github.com/holding-fpass/challenge-frontend-fpass/" target="_blank">Fpass</a>
 
-### `npm start`
+## 🏁 Antes de qualquer coisa... <a name = "getting_started"></a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+É necessário clonar o projeto para o seu computador. Você pode fazer isso usando comandos git em um terminal ou aqui mesmo na página do git usar o botão clonar que fará o download desta pasta como um .zip.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Pre-requisitos
 
-### `npm test`
+```
+Node (A versão v20.2.0 foi a usada na criação deste projeto)
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Instalando
 
-### `npm run build`
+Para instalar as bibliotecas necessárias é importante rodar no terminal
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+yarn install
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Para rodar localmente
+```
+yarn start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🔗 Telas <a name = "telas"></a>
 
-### `npm run eject`
+- # Página de Pesquisa
+![image](https://github.com/victorgodoka/challenge-frontend-fpass/assets/26755399/50bf7309-400f-4a81-b8f8-33f98d05ee35)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- # Listagem de Herois
+![image](https://github.com/victorgodoka/challenge-frontend-fpass/assets/26755399/a91ee2f8-fcdf-479d-95ce-e9699071beb5)
+![image](https://github.com/victorgodoka/challenge-frontend-fpass/assets/26755399/56800042-f7fe-41b2-9fd4-2c2d2ab59186)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- # Página do Heroi
+![image](https://github.com/victorgodoka/challenge-frontend-fpass/assets/26755399/d3f53404-e02b-4331-b875-e6d0c0d167b0)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## ⛏️ Feito com <a name = "built_using"></a>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [NodeJs](https://nodejs.org/en/)
+- [ReactJS](https://react.dev/)
+- [Styled Components](https://styled-components.com/)
+- [Typescript](https://www.typescriptlang.org/)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## ✍️ Autores <a name = "authors"></a>
+- [@victorgodoka](https://github.com/victorgodoka) - Candidato e nerd do JS
+
+## 🎉 Agradecimentos <a name = "acknowledgement"></a>
+
+- [SoftDesign](https://fpass.com.br/), pela oportunidade
+- [Readme Pattern](https://marketplace.visualstudio.com/items?itemName=thomascsd.vscode-readme-pattern), plugin de VSCode que me trouxe esse template bonitão
